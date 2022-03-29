@@ -8,7 +8,7 @@ Learn more abut these libraries at:
 
 # How to use
 
-To use this framework, you simply download the w3.framework folder and paste it. 
+To use this framework, you simply download the w3.framework folder and unzip it. 
 You can then rename it however you want. 
 To run the application you should run index.html. 
 
