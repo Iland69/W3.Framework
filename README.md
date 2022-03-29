@@ -17,3 +17,6 @@ Everything is else is written in the files, but here is a quick summary:
 - components/other.html is just an example
 - The W3.JS and W3.CSS libraries are contained in the modules folder
 - To learn these libraries you can go to the links above (in the first section)
+
+# Note
+I'm not in any way affiliated with W3. If you have a copyright issue with this project, please send a e-mail to ilandexe@yahoo.com
