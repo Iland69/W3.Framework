@@ -8,9 +8,11 @@ Learn more abut these libraries at:
 
 # How to use
 
-To use this framework, you simply download the w3.framework folder and unzip it. 
+To use this framework, you simply download the w3.framework folder and paste it. 
 You can then rename it however you want. 
 To run the application you should run index.html. 
+**Using a live server is recommended**
+
 
 Everything is else is written in the files, but here is a quick summary:
 - Write HTML in components/main.html, JS in scripts/indedx.js, and CSS in scripts/index.css
