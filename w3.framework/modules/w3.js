@@ -421,24 +421,3 @@ w3.removeLocal = function (key) {
 w3.clearLocal = function () {
   localStorage.clear();
 }
-
-w3.displayArray = function (id, arr) {
-  var html = w3.getElements(id);
-  for (var el in html) {
-    el.innerHTML = "";
-    for (var i = 0; i < arr.length; i++) {
-      el.innerHTML += "-" + arr[i] + "<br>";
-    }
-  }
-}
-
-w3.displayObject = function (id, obj) {
-  var html = w3.getElements(id);
-  for (var el in html) {
-    el.innerHTML = "";
-    for (var key in obj) {
-      el.innerHTML += "-" + key + " : " + obj[key] + "<br>";
-    }
-  }
-}
-
